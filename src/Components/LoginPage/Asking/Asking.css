@@ -1,0 +1,23 @@
+.loginPage_signupOption {
+    margin-top: 10px;
+    height: 56px;
+    width: 350px;
+    border: 1px solid #dbdbdb;
+    background-color: white;
+    text-align: center;
+}
+
+.loginPage_signupOption_signup {
+}
+
+.loginPage_signupOption_signin {
+
+}
+
+.loginPage_signupOption_item {
+    margin-top: 15px;
+}
+
+.loginPage_signupOption_item span {
+    cursor: pointer;
+}

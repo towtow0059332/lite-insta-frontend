@@ -1,0 +1,21 @@
+.feed_post_header {
+    height: 60px;
+    border: 1px solid #dbdbdb;
+    display: flex;
+}
+
+.feed_post_avatar {
+    min-height: 45px;
+    min-width: 45px;
+    margin: 10px;
+}
+
+.feed_post_username {
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.feed_post_timestamp {
+    color: #606060;
+    font-size: 13px;
+}

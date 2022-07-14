@@ -1,0 +1,85 @@
+.navBar_barContent {
+    height: 54px;
+    background-color: white;
+    border-bottom: 1px solid #dbdbdb;
+}
+
+.navBar_instaLogo {
+    margin-top: 10px;
+}
+
+.navBar_logo {
+    width: 25px;
+    margin: 15px 10px;
+}
+
+.navBar_searchBar {
+    height: 30px;
+    width: 215px;
+    margin-top: 10px;
+    border: 1px solid #dbdbdb;
+    text-align: center;
+    background-color: #fafafa;
+    border-radius: 5px;
+}
+
+.navBar_dropdown {
+    /*background-color: red;*/
+    /*width: 80px;*/
+    /*height: 100%;*/
+}
+
+.navBar_dropdown:hover .navBar_select {
+    /*background-color: blue;*/
+    border-radius: 5px;
+    border: solid 1px #DBDBDB;
+    background-color: #FFFFFF;
+    /*padding: 4px;*/
+    /*border-top-left-radius: 50px;*/
+    /*border-top-right-radius: 50px;*/
+    /*z-index: 999;*/
+
+
+}
+
+
+.mAvatar:hover {
+    /*background-color: black;*/
+    /*!*margin: 15px 10px;*!*/
+    /*!*padding: 10px;*!*/
+    /*border-top-left-radius: 30px;*/
+    /*border-top-right-radius: 30px;*/
+}
+
+.navBar_select {
+    position: absolute;
+    left: 1009px;
+    top: 45px;
+    padding: 5px;
+    margin: 0;
+    text-align: center;
+    height: 45px;
+    width: 60px;
+}
+
+.navBar_select:hover {
+    /*background-color: black;*/
+}
+
+.navBar_select li {
+    list-style: none;
+}
+
+.navBar_select_greenText:hover {
+    color: #23A0DA;
+    cursor: pointer;
+    font-weight: bold;
+    border-bottom: solid 1px #DBDBDB;
+}
+
+.navBar_select_redText:hover {
+    color: #DF3968;
+    cursor: pointer;
+    font-weight: bold;
+    border-bottom: solid 1px #DBDBDB;
+}

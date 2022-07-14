@@ -1,0 +1,7 @@
+.feed_post_container{
+    width: 615px;
+    /*height: 700px;*/
+    border: 1px solid #dbdbdb;
+    background-color: white;
+    margin-bottom: 10px;
+}

@@ -1,0 +1,10 @@
+.suggestions_container {
+    width: 325px;
+    height: 290px;
+    margin-top: 25px;
+}
+
+.suggestions_header {
+    font-weight: bold;
+    color: #bebebe;
+}

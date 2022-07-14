@@ -1,0 +1,16 @@
+.statusBar_avatarStatus_main {
+    margin: 25px 10px;
+}
+
+.statusBar_avatarStatus_avatar {
+    min-width: 55px;
+    min-height: 55px;
+    border: 3px solid #df3968;
+}
+
+.statusBar_avatarStatus_text {
+    font-size: 12px;
+    max-width: 55px;
+    overflow-x: hidden;
+    text-align: center;
+}

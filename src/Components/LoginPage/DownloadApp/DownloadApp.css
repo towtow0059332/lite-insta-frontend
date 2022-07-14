@@ -1,0 +1,18 @@
+.loginPage_download {
+    height: 105px;
+    width: 350px;
+    text-align: center;
+    margin-top: 2px;
+}
+
+.loginPage_downloadText {
+    /*height: 105px;*/
+}
+
+.loginPage_downloadOptions {
+    margin-top: 10px;
+}
+
+.loginPage_downloadItem {
+    margin: 5px;
+}

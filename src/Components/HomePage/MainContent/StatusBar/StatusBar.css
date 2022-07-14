@@ -1,0 +1,21 @@
+.statusBar_container {
+    height: 120px;
+    width: 615px;
+    background-color: white;
+    border: 1px solid #dbdbdb;
+    margin-top: 25px;
+    display: flex;
+    overflow-x: scroll;
+}
+
+.statusBar_container::-webkit-scrollbar {
+    display: none;
+}
+
+.statusBar_uploadImg {
+    width: 55px;
+    height: 55px;
+    /*margin: 30px 20px 30px 30px;*/
+    /*margin: 20px;*/
+    margin: 30px 10px;
+}

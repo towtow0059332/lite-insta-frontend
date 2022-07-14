@@ -1,0 +1,10 @@
+.feed_post_reactImg {
+    width: 25px;
+    height: 25px;
+    margin: 5px;
+}
+
+.feed_post_likes{
+    font-weight: bold;
+    margin-left: 20px;
+}

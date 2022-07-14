@@ -1,0 +1,8 @@
+body{
+    background-color: #fafafa;
+}
+.loginPage_center {
+    display: flex;
+    margin-top: 10px;
+    margin-left: -65px;
+}
